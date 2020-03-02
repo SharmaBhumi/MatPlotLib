@@ -2,7 +2,7 @@
 
 ## Pymaceuticals Inc
 
-![Laboratory](Images/pharma_image2.png) ![Laboratory2](Images/pharma_image1.png)
+![Laboratory](Images/pharma_image2.png) ![Laboratory](Images/pharma_image.png)
 
 
 # Datails for Data:
